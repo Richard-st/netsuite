@@ -1,0 +1,22 @@
+{
+  "name": "netsuite",
+  "version": "1.0.0",
+  "description": "netsuite stub",
+  "main": "index.js",
+  "scripts": {
+    "test": "action"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richard-st/netsuite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richard-st/netsuite/issues"
+  },
+  "homepage": "https://github.com/Richard-st/netsuite#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
